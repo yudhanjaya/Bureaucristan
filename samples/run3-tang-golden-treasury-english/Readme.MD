@@ -1,4 +1,5 @@
-## For this run, I added Western poetry. Namely, "The Poems of Robert Frost" from https://archive.org/stream/poemsofrobertfro029898mbp/poemsofrobertfro029898mbp_djvu.txt
+## For this run, I added Western poetry. 
+Namely, "The Poems of Robert Frost" from https://archive.org/stream/poemsofrobertfro029898mbp/poemsofrobertfro029898mbp_djvu.txt
 
 I assumed that Frost had more in common with the Tang poets than any other English poem I know - many of his most famous poems are about capturing that moment, freezing it, and using relatively simple language to capture more intimate emotion.
 
