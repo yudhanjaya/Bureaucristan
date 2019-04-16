@@ -66,7 +66,7 @@ Useless and old, I rein in my horse
 For one morning and the ending of an adventure.'
 ```
 
-This sample above is identical to the original:
+This sample above almost is identical to the original, except for that last sentence (but how beautifully it fits):
 ```
 'In the second year of Zhide, I escaped from the capital through the Gate of Golden Light and went to Fengxiang. In the first year of Qianyuan, I was appointed as official to Huazhou from my former post of Censor. Friends and relatives gathered and saw me leave by the same gate. And I wrote this poem.
 
