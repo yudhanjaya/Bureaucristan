@@ -10,7 +10,8 @@ The moon is in my tree, watching for birds in the damp cloud.
 I hear a bugle.
 ```
 
-###Not entirely sure what happened. The supposedly clean rollback generates strange fruit on the samples generated during training. However, a second unconditional general call reveals better work around the 500-cycle model:
+### Not entirely sure what happened. 
+The supposedly clean rollback generates strange fruit on the samples generated during training. However, a second unconditional general call reveals better work around the 500-cycle model:
 
 ```
 There are sojourns below the clouds:
