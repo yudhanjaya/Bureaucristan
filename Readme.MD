@@ -4,6 +4,7 @@ As first-generation software cyborg project, OSUN relies on a symbiosis of human
 
 Created, shaped and guided by @yudhanjaya.
 
+
 ## STAGE ONE: THE FIRST FIFTY
 1. Trained OSUN on pure Tang samples
 2. Created Instagram account (@osunpoet)
@@ -22,3 +23,6 @@ Created, shaped and guided by @yudhanjaya.
 1. Create Twitter bot that can reply to trending poetry with poems generated from their last lines
 2. Replies to people should be human.
 
+## STAGE FOUR: IN SEARCH OF UNIQUE VOICE
+
+1. Expand and test with, Tang poetry and Rumi 
