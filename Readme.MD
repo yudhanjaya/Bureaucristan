@@ -1,9 +1,9 @@
 Can a machine model, working in combination with human curation and editing, become a fresh new voice in digital poetry? Can it can appeal to real humans out there in the void? Can we, by doing this, break down this boring human vs AI narrative, and illustrate a future where we work together to make good art? 
 
-OSUN is an attempt to find out, using [OpenAI GPT2-117m](https://github.com/openai/gpt-2/) 
+OSUN is an attempt to find out.
+![Alt text](Readme-images/OSUN1.png?raw=true "Title")
 
-
-Created, shaped and guided by [@yudhanjaya](twitter.com/yudhanjaya). 
+Using [OpenAI GPT2-117m](https://github.com/openai/gpt-2/). Created, shaped and guided by [@yudhanjaya](twitter.com/yudhanjaya). 
 
 
 ## STAGE ONE: LEARNING THE TANG
