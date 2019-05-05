@@ -3,7 +3,7 @@ Can a machine model, working in combination with human curation and editing, bec
 OSUN is an attempt to find out, using https://github.com/openai/gpt-2/ 
 Part of her interactions are handled by https://github.com/instabot-py/instabot.py. 
 
-Created, shaped and guided by @yudhanjaya. For an explpanation of how she came to be, read: https://towardsdatascience.com/the-poetry-machine-2764ec8b340b
+Created, shaped and guided by @yudhanjaya. For an explanation of how she came to be, read: https://towardsdatascience.com/the-poetry-machine-2764ec8b340b
 
 
 ## STAGE ONE: LEARNING THE TANG
