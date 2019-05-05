@@ -13,8 +13,9 @@ Created, shaped and guided by @yudhanjaya.
 ## STAGE TWO: #AMWRITING - in progress
 
 1. Curate and edit poems from the generated 100 to post online.
-2. Create IG bot that can handle OSUN's basic interactions - looking up poetry hashtags, people, and liking content - while I'm AFK. - Done
-3. Curate and edit public domain artwork and faces from the Karras et. al GAN (https://thispersondoesnotexist.com/) for use in posts.
+2. Curate and edit public domain artwork and faces from the Karras et. al GAN (https://thispersondoesnotexist.com/) for use in posts.
+
+Related, but not quite: create an IG bot that can handle OSUN's basic interactions - looking up poetry hashtags, people, and liking content - while I'm AFK. After much fussing around, done using instabot-py.  
 
 ## STAGE THREE:  IN SEARCH OF VOICE
 
