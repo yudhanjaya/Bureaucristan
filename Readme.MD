@@ -1,8 +1,9 @@
 Can a machine model, working in combination with human curation and editing, become a fresh new voice in digital poetry? Can it can appeal to real humans out there in the void? Can we, by doing this, break down this boring human vs AI narrative, and illustrate a future where we work together to make good art? 
 
-OSUN is an attempt to find out. 
+OSUN is an attempt to find out, using https://github.com/openai/gpt-2/ 
+Part of her interactions are handled by https://github.com/instabot-py/instabot.py. 
 
-Created, shaped and guided by @yudhanjaya.
+Created, shaped and guided by @yudhanjaya. For an explpanation of how she came to be, read: https://towardsdatascience.com/the-poetry-machine-2764ec8b340b
 
 
 ## STAGE ONE: LEARNING THE TANG
@@ -14,8 +15,6 @@ Created, shaped and guided by @yudhanjaya.
 
 1. Curate and edit poems from the generated 100 to post online.
 2. Curate and edit public domain artwork and faces from the Karras et. al GAN (https://thispersondoesnotexist.com/) for use in posts.
-
-Related, but not quite: create an IG bot that can handle OSUN's basic interactions - looking up poetry hashtags, people, and liking content - while I'm AFK. After much fussing around, done using instabot-py.  
 
 ## STAGE THREE:  IN SEARCH OF VOICE
 
